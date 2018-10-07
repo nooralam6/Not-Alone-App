@@ -1,0 +1,18 @@
+PODS:
+  - IQKeyboardManagerSwift (6.1.1)
+  - JVFloatLabeledTextField (1.2.1)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - JVFloatLabeledTextField
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  JVFloatLabeledTextField: cfc44e3c4d493b2ed92ede8035e8e89c2912ba64
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 9c359d19b60835c361800c2d656173f8c9a5d197
+
+COCOAPODS: 1.4.0
